@@ -1,2 +1,2 @@
 # Data-Science
-I took Data Science's course in 2021 under supervision of Prof.Farzad Minooei
+I took a Data Science course in 2021 under the supervision of Prof.Farzad Minooei
